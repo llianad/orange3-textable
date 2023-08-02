@@ -9,7 +9,7 @@ Text Field
 
 .. image:: figures/TextField_54.png
 
-Import text data from keyboard input.
+Import text data from keyboard.
 
 Signals
 -------
